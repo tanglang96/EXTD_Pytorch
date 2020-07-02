@@ -1,5 +1,3 @@
-## EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse ##
-A PyTorch Implementation of Extremely Tiny Face Detector via Iterative Filter Reuse
 
 YoungJoon Yoo, Dongyoon Han, Sangdoo Yun
 
